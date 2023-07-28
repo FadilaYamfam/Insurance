@@ -1,0 +1,58 @@
+
+
+#back-img {
+    width: 100%;
+    height: 480px;
+  }
+
+  
+
+  #about {
+    margin-top: 100px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+  
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+  }
+
+  #about text{
+    margin-top: 35px;
+  }
+  
+  .abtcontent{
+    color: black;
+  }
+  .abtcontent h2 {
+    text-align: center;
+  }
+  
+  #imgAbout {
+    width: 500px;
+    height: 300px;
+    padding-right: 50%;
+    
+  }
+
+
+  #fintech {
+    width: 250px;
+    height: 150px;
+    padding-right: 69%;
+  }
+  #QA {
+    width: 250px;
+    height: 150px;
+    padding-right: 180px;
+    margin-top: -300%;
+  }
+  #assurance {
+    width: 250px;
+    height: 150px;
+    padding-left: 790px;
+    margin-top: -160px;
+  }
+  #more{
+    margin-top: -100px;
+    position: right;
+  }
